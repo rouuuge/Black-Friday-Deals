@@ -299,6 +299,11 @@ The only app that can tell you when your tracks have been automatically upgraded
 
 HoudahSpot is a file search tool that helps you organize files and finds these if you did not. 
 
+### 💰 [Get Packy](https://getpacky.app/) - Lifetime 50% OFF
+
+Your All-in-One Packing List. Share and edit lists with friends or family.
+
+
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
